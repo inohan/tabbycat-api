@@ -1,0 +1,2 @@
+class TabbycatException(Exception):
+    pass
